@@ -26,6 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## From
+https://www.prisma.io/blog/nestjs-prisma-authentication-7D056s1s0k3l
+
 ## Installation
 
 ```bash
